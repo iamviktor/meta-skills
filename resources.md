@@ -6,6 +6,7 @@
 - [Ponytail](https://github.com/dietrichgebert/ponytail) by Dietrich Gebert — An agent skill that favors minimal code, reuses existing solutions, and avoids unnecessary complexity while preserving validation, security, and testing.
 - [Claude Code Harness](https://github.com/Chachamaru127/claude-code-harness) by Chachamaru127 — A collection of agent skills for planning, implementing, testing, and reviewing development tasks through a structured workflow.
 - [davidondrej-skills](https://github.com/davidondrej/skills) by David Ondrej — A collection of reusable agent skills for coding, research, content preparation, documentation, and workflow automation.
+- [Stop Slop](https://github.com/hardikpandya/stop-slop) by Hardik Pandya — An agent skill for removing common AI writing patterns from prose, including predictable phrases, structural clichés, and repetitive sentence rhythms.
 
 ## Tools
 
