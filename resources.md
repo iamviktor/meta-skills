@@ -16,6 +16,7 @@
 
 ## Books
 
+- [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) by patchy631 — A collection of tutorials and example projects covering LLMs, retrieval-augmented generation, and AI agent applications.
 - [Harness Books](https://github.com/wquguru/harness-books) by wquguru — Two books on harness engineering in Claude Code and Codex, covering execution constraints, context management, permissions, recovery, and multi-agent verification.
 - [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) by Anthropic — A collection of practical notebooks, code recipes, and guides for building with Claude, covering tool use, retrieval, multimodal capabilities, and evaluations.
 
