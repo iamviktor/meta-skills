@@ -10,6 +10,7 @@
 
 ## Tools
 
+- [Good AI List](https://goodailist.com/repos) by Chip Huyen — A searchable directory for discovering open-source AI repositories, with categories and GitHub activity statistics.
 - [Spec Kit](https://github.com/github/spec-kit) by GitHub — An open-source toolkit with structured workflows and reusable templates for specification-driven development with AI coding agents.
 - [claudish-to-english](https://github.com/gvzdv/claudish-to-english) by gvzdv — A Claude Code plugin that uses a local or API-backed language model to display plain-language rewrites of assistant messages while preserving the original transcript.
 
