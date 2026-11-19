@@ -7,6 +7,7 @@
 - [Claude Code Harness](https://github.com/Chachamaru127/claude-code-harness) by Chachamaru127 — A collection of agent skills for planning, implementing, testing, and reviewing development tasks through a structured workflow.
 - [davidondrej-skills](https://github.com/davidondrej/skills) by David Ondrej — A collection of reusable agent skills for coding, research, content preparation, documentation, and workflow automation.
 - [Stop Slop](https://github.com/hardikpandya/stop-slop) by Hardik Pandya — An agent skill for removing common AI writing patterns from prose, including predictable phrases, structural clichés, and repetitive sentence rhythms.
+- [Everything Claude Code](https://github.com/affaan-m/ECC) by affaan-m — A collection of skills, agents, commands, rules, and hooks for Claude Code, with support for Codex, OpenCode, and Cursor.
 
 ## Tools
 
